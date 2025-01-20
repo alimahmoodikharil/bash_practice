@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "We got ur message : $MESSAGE"
+
