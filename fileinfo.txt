@@ -1,0 +1,13 @@
+HTTP/2 302 
+date: Tue, 21 Jan 2025 15:08:09 GMT
+location: https://files.testfile.org/PDF/20MB-TESTFILE.ORG.pdf
+x-content-type-options: nosniff
+x-powered-by: Short.io/Edge
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=1djcwujjMaKmIB%2FUGGzgG4LkLRc0aIIzeLqjjsROTPvO8RMpX5ctgJApgZ1QmYiSjrvVNuIoGyRjFd52%2BT1cNdGKRilhG8Hx2kzj0fresnG9p4OKz1ZEBy0TUVAo34R1sxyzjw%3D%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 905837d0ae169a41-FRA
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=90648&min_rtt=84670&rtt_var=24762&sent=8&recv=9&lost=0&retrans=0&sent_bytes=3427&recv_bytes=768&delivery_rate=48988&cwnd=254&unsent_bytes=0&cid=7347bb0136797608&ts=416&x=0"
+
