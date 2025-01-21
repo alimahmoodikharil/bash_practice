@@ -1,0 +1,88 @@
+Setting up watches.
+Watches established.
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN c.txt
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE c.txt
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN c.txt
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE c.txt
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CREATE 4913
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN 4913
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ATTRIB 4913
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_WRITE,CLOSE 4913
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ DELETE 4913
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ MOVED_FROM c.txt
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ MOVED_TO c.txt~
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CREATE c.txt
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN c.txt
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ MODIFY c.txt
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_WRITE,CLOSE c.txt
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ATTRIB c.txt
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ DELETE c.txt~
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ OPEN,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ ACCESS,ISDIR 
+/mnt/c0825db7-8439-420a-bfd4-1e24892c3055/Practice/Bash/testfolder/ CLOSE_NOWRITE,CLOSE,ISDIR 
